@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "残酷な天使のテーゼ",
+  "base_artist": "高橋洋子",
+  "createdAt": "2025-12-13T06:00:23.834017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ (Director’s Edit.Version)",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/01_残酷な天使のテーゼ_(Director’s_Edit.Version)_高橋洋子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ",
+      "artist": "Yoko Takahashi",
+      "has_synced": true,
+      "path": "select/02_残酷な天使のテーゼ_Yoko_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/03_残酷な天使のテーゼ_高橋洋子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ",
+      "artist": "Yoko Takahashi",
+      "has_synced": true,
+      "path": "select/04_残酷な天使のテーゼ_Yoko_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Cruel Angel's Thesis [残酷な天使のテーゼ]",
+      "artist": "Yoko Takahashi",
+      "has_synced": true,
+      "path": "select/05_A_Cruel_Angel's_Thesis_[残酷な天使のテーゼ]_Yoko_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ",
+      "artist": "Desi",
+      "has_synced": false,
+      "path": "select/06_残酷な天使のテーゼ_Desi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/07_残酷な天使のテーゼ_高橋洋子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ (Director's Edit. Version)",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/08_残酷な天使のテーゼ_(Director's_Edit._Version)_高橋洋子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ - 2009VERSION",
+      "artist": "Yoko Takahashi",
+      "has_synced": false,
+      "path": "select/09_残酷な天使のテーゼ_-_2009VERSION_Yoko_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ 2009VERSION",
+      "artist": "高橋洋子",
+      "has_synced": false,
+      "path": "select/10_残酷な天使のテーゼ_2009VERSION_高橋洋子.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ MATSURI SPIRIT",
+      "artist": "Yoko Takahashi",
+      "has_synced": false,
+      "path": "select/11_残酷な天使のテーゼ_MATSURI_SPIRIT_Yoko_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ MATSURI SPIRIT",
+      "artist": "高橋洋子",
+      "has_synced": false,
+      "path": "select/12_残酷な天使のテーゼ_MATSURI_SPIRIT_高橋洋子.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ (10TH ANNIVERSARY VERSION)",
+      "artist": "高橋洋子",
+      "has_synced": false,
+      "path": "select/13_残酷な天使のテーゼ_(10TH_ANNIVERSARY_VERSION)_高橋洋子.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ",
+      "artist": "Ruki",
+      "has_synced": false,
+      "path": "select/14_残酷な天使のテーゼ_Ruki.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ",
+      "artist": "MIQ",
+      "has_synced": true,
+      "path": "select/15_残酷な天使のテーゼ_MIQ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/16_残酷な天使のテーゼ_高橋洋子.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "残酷な天使のテーゼ",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/17_残酷な天使のテーゼ_高橋洋子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "残酷な天使のテーゼ",
+      "artist": "高橋 洋子",
+      "has_synced": false,
+      "path": "select/pl_01_残酷な天使のテーゼ_高橋_洋子.txt"
+    }
+  ]
+}
